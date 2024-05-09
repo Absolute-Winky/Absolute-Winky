@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ1OXZma3FqcGZ6aXRxcnp6MXY1dHUxbzA5MDllcDJybjgzODR5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="500"/>
 </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU5b2xqdWJwYjVxc3p4Y2RkdDhva2FsYXRheTV4OG00aTkxY28wNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="500"/>
+</div>
 -->
 
 <div id="header" align="center">
