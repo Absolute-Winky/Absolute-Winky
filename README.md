@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 -->
 ## :blush: About me
-#### :man_technologist: I'm 19 y.o student from [Saint-Petersburg](https://www.google.com/maps/place/Saint-Petersburg/) [ITMO university](https://itmo.ru/) studing [best language ever](https://en.cppreference.com/w/)
+#### :man_technologist: I'm 20 y.o student from [Saint-Petersburg](https://www.google.com/maps/place/Saint-Petersburg/) [ITMO university](https://itmo.ru/) studing [best language ever](https://en.cppreference.com/w/)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Voa3R1emFjengzM3VrZnNwa2lxa3oxdmJkajQ3emw3Y3B5ancyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="500"/>
 </div>
